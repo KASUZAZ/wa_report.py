@@ -26,3 +26,14 @@ Sebelum menjalankan tool ini, pastikan sistem anda mempunyai:
    git clone [https://github.com/KASUZAZ/wa_report.py.git](https://github.com/KASUZAZ/wa_report.py.git)
    cd wa_report.py
    
+Pasang Dependensi:
+
+Bash
+pip3 install aiohttp
+Jalankan Tool:
+
+Bash
+python3 wa_report.py <nombor_telefon_sasaran>
+
+⚠️ Penafian (Disclaimer)
+Projek ini dicipta oleh kasuzaz untuk tujuan pembelajaran keselamatan siber sahaja. Sebarang penyalahgunaan tool ini adalah di bawah tanggungjawab pengguna sendiri. Penulis tidak bertanggungjawab atas sebarang tindakan yang melanggar terma perkhidmatan pihak ketiga.
